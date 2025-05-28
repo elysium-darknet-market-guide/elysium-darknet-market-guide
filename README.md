@@ -8,7 +8,7 @@ Your complete **Elysium darknet market guide** for safe and anonymous access to 
 - **Uptime:** 98.7% (2025 average)
 - **Access:** http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
-![Elysium Market Interface Guide](/static/guide-preview.png)](http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion)
+![Elysium Market Interface Guide](/static/recent.webp)](http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion)
 
 
 ## 📖 Table of Contents
@@ -36,7 +36,7 @@ Your complete **Elysium darknet market guide** for safe and anonymous access to 
 - **Vendor Pages:** Reputation scores
 - **Escrow:** Secure payments
 
-[![Elysium Market Layout](/static/market-layout.png)]([http://6.onion](http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion)
+[![Elysium Market Layout](/static/scale.webp)]([http://6.onion](http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion)
 
 ## 🔐 Security Protocol
 ### Must-Follow Rules:
