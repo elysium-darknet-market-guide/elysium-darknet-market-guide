@@ -8,7 +8,7 @@ Your complete **Elysium darknet market guide** for safe and anonymous access to 
 - **Uptime:** 98.7% (2025 average)
 - **Access:** http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
-[![Elysium Market Interface Guide](/static/guide-preview.png)](http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion)
+![Elysium Market Interface Guide](/static/guide-preview.png)](http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion)
 
 
 ## 📖 Table of Contents
