@@ -73,4 +73,6 @@ Your complete **Elysium darknet market guide** for safe and anonymous access to 
 *Disclaimer: This guide is for educational purposes only.*
 
 
-Update: Corrected broken reference links in README
+
+
+Update: Settings links
