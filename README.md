@@ -77,4 +77,6 @@ Your complete **Elysium darknet market guide** for safe and anonymous access to 
 
 
 
-Update: Fixed broken external link
+
+
+Update:  17 June url is now accessible and functioning
