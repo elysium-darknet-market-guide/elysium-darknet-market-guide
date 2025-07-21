@@ -95,4 +95,6 @@ Your complete **Elysium darknet market guide** for safe and anonymous access to 
 
 
 
-Update:  18.07.2025 14:51 url is now available online
+
+
+Update: Font URLs
