@@ -99,4 +99,6 @@ Your complete **Elysium darknet market guide** for safe and anonymous access to 
 
 
 
-Update:  24.07.2025 11:49:03 Link is now functioning and live
+
+
+Update:  04 August Fixed inaccessible url
